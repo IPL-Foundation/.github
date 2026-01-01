@@ -1,1 +1,43 @@
-# .github
+# IPL Foundation
+
+This is the **IPL Foundation**, dedicated to building and maintaining the **IPL ecosystem** —a simple interpreted programming language and its tooling.
+
+---
+
+## Our Mission
+
+- Develop and maintain **IPL (Interpreted Programming Language)**  
+- Provide **tools and libraries** to extend IPL  
+
+---
+
+## Key Projects
+
+| Project | Description | Repo |
+|---------|-------------|------|
+| **IPL** | Interpreted programming language written in Rust | [IPL](https://github.com/IPL-Foundation/IPL) |
+| **ILI** | IPL Library Installer for managing external libraries | [ILI](https://github.com/IPL-Foundation/ILI) |
+| **IPL Highlighting VS-Code** | Syntax highlighting for VS-Code | [IPL Highlighting](https://github.com/IPL-Foundation/IPL-Highlighting-VS-Code) |
+
+---
+
+## Why IPL?
+
+- **Simple**: easy to learn and use  
+- **Extensible**: libraries via ILI and custom imports  
+- **Rust-powered**: safe, fast, and reliable
+
+---
+
+## Get Involved
+
+We welcome **contributors, educators, and enthusiasts**. Check out our projects, report issues, submit PRs, or suggest features.  
+
+- [Contributing Guidelines](https://github.com/IPL-Foundation/IPL/blob/main/CONTRIBUTING.md)  
+- [Issues](https://github.com/IPL-Foundation/IPL/issues)
+
+---
+
+## License
+
+All projects are licensed under **MIT**. See individual repositories for details.
