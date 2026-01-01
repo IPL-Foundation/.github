@@ -2,12 +2,14 @@
 
 This is the **IPL Foundation**, dedicated to building and maintaining the **IPL ecosystem** —a simple interpreted programming language and its tooling.
 
+**IPL** is designed to have a simple syntax, making it a good language to learn programming with.
 ---
 
 ## Our Mission
 
 - Develop and maintain **IPL (Interpreted Programming Language)**  
-- Provide **tools and libraries** to extend IPL  
+- Provide **tools and libraries** to extend IPL
+- Create an ecosystem designed for learning programming.
 
 ---
 
