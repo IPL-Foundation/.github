@@ -4,6 +4,11 @@ This is the **IPL Foundation**, dedicated to building and maintaining the **IPL 
 **IPL** is designed to have a simple syntax, making it a good language to learn programming with.
 
 ---
+# Status
+![Tests](https://github.com/IPL-Foundation/IPL/actions/workflows/test.yml/badge.svg)
+![GitHub release](https://img.shields.io/github/v/release/IPL-Foundation/IPL)
+
+---
 
 ## Our Mission
 
