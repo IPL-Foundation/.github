@@ -5,8 +5,9 @@ This is the **IPL Foundation**, dedicated to building and maintaining the **IPL 
 
 ---
 # Status
-![Tests](https://github.com/IPL-Foundation/IPL/actions/workflows/test.yml/badge.svg)
+![IPL Tests](https://github.com/IPL-Foundation/IPL/actions/workflows/test.yml/badge.svg)
 ![GitHub release](https://img.shields.io/github/v/release/IPL-Foundation/IPL)
+![ILI Tests](https://github.com/IPL-Foundation/ILI/actions/workflows/test.yml/badge.svg)
 
 ---
 
